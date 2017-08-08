@@ -1,0 +1,44 @@
+.qqq {
+    background-color: white;
+    width: 760px;
+    height: 740px;
+}
+.red {
+    float: right;
+    background-color: red;
+    width: 85px;
+    height: 85px;
+}
+.black {
+    float: right;
+    background-color: black;
+    width: 85px;
+    height: 85px;
+    color: wheat;
+}
+.fak {
+    width: 85px;
+    height: 85px;
+    background: black;
+    border: white;
+    line-height: 30px;
+    border-radius: 150px;
+}
+.pas {
+    padding-bottom: 4%;
+}
+.gad {
+    width: 85px;
+    height: 85px;
+    background: red;
+    border: white;
+    line-height: 30px;
+    border-radius: 150px;
+}
+.cont {
+    outline: 2px solid #000;
+}
+#id {
+    outline: 2px solid #000;
+    /* Чёрная рамка */
+}
